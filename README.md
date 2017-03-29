@@ -8,4 +8,8 @@
      * z.B. he can play footbal
 * Nach o, ch, sh wird es angehaengt
      * z.B. he does, he washes
+* Nach einem Konsonant wird beim Anhängen von s der Endkonsonant y zu ie
+     * z.B. he worry - he worried 
 * Nach einem Vokal (a, e, i, o, u) bleibt der Endkonsonant y
+     * z.B. he played 
+

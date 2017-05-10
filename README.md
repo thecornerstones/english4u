@@ -28,6 +28,7 @@
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-z2zr{background-color:#FCFBE3}
 </style>
+
 <table align="center" class="tg">
   <tr>
     <th class="tg-k6pi">Zeitform</th>
@@ -47,7 +48,7 @@
     <td class="tg-j2zy">I work. <br /> She work<font color="#f38630">s</font></td>
     <td class="tg-j2zy">I don´t work. <br /> She doe<font color="#f38630">s</font>´nt work</font> </td></td>
     <td class="tg-j2zy">Do I work? <br />Doe<font color="#f38630">s</font> she work?</font> </td></td></td>
-  </tr>
+  </tr> 
   <tr>
     <td class="tg-j2zy"><b>Present Progressive</b></td>
     <td class="tg-j2zy">now<br />at the moment<br />look! <br />Listen! <br /></td></td>
@@ -58,7 +59,7 @@
     <td class="tg-j2zy">Am I work<font color="#f38630">ing</font>? <br />Is she work<font color="#f38630">ing</font>?</font></td></td>
   </tr>
   <tr>
-    <td class="tg-z2zr"><b>Simple Past</b></td>
+    <td class="tg-z2zr"><b><h1 style="color: #5e9ca0;">Simple Past</b></td></h1>
     <td class="tg-z2zr">last <br />ago<br />always <br />in 1990 <br />yesterday   </td>
     <td class="tg-z2zr"><li>Handlung hat in der Vergangenheit begonnen <br />und ist abgeschlossen(einmalig, wiederholt, <br />aufeinanderfolgend)</td>
     <td class="tg-j2zy"><p align="justify"> regelmaessig: <br /> <b>Infinitiv + <font color="#f38630">ed</font></b> <br /><br />unregelmaessig: <br />(2.Spalte - Tabelle <br />unregelmaessige<br />Verben)
